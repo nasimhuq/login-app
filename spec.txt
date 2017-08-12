@@ -1,0 +1,6 @@
+1. Sign Up
+  a.1 change pure -> bootstrap
+  a.2 validations
+  b. send user info to server
+  c. sign up successfull page.
+  d. redirect user to login page
